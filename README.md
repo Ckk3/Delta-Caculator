@@ -1,2 +1,2 @@
 # Delta Caculator
- Aplicativo simples feito em java utilizando o swing pra calcular o Delta pela a fórmula de báskara
+ Aplicativo simples feito em java pra calcular o Delta utlizando a fórmula de báskara
